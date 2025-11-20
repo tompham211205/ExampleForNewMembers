@@ -1,0 +1,6 @@
+bmp390/bmp3.o: \
+ D:/BMP3-BMP390-STM32-main/BMP3-BMP390-STM32-main/bmp390/bmp3.c \
+ D:/BMP3-BMP390-STM32-main/BMP3-BMP390-STM32-main/bmp390/bmp3.h \
+ D:/BMP3-BMP390-STM32-main/BMP3-BMP390-STM32-main/bmp390/bmp3_defs.h
+D:/BMP3-BMP390-STM32-main/BMP3-BMP390-STM32-main/bmp390/bmp3.h:
+D:/BMP3-BMP390-STM32-main/BMP3-BMP390-STM32-main/bmp390/bmp3_defs.h:

@@ -1,0 +1,6 @@
+D:/BMP3-BMP390-STM32-main/BMP3-BMP390-STM32-main/bmp390/common_porting.c:116:6:DelayUs	3
+D:/BMP3-BMP390-STM32-main/BMP3-BMP390-STM32-main/bmp390/common_porting.c:126:6:bmp3_delay_us	3
+D:/BMP3-BMP390-STM32-main/BMP3-BMP390-STM32-main/bmp390/common_porting.c:180:8:SensorAPI_I2Cx_Read	1
+D:/BMP3-BMP390-STM32-main/BMP3-BMP390-STM32-main/bmp390/common_porting.c:193:8:SensorAPI_I2Cx_Write	1
+D:/BMP3-BMP390-STM32-main/BMP3-BMP390-STM32-main/bmp390/common_porting.c:214:8:SensorAPI_SPIx_Read	2
+D:/BMP3-BMP390-STM32-main/BMP3-BMP390-STM32-main/bmp390/common_porting.c:232:8:SensorAPI_SPIx_Write	2
